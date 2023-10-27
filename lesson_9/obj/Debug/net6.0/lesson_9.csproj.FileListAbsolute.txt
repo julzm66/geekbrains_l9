@@ -1,0 +1,15 @@
+C:\Users\Юлия\Desktop\git_repo\geekbrains_l9\lesson_9\bin\Debug\net6.0\lesson_9.exe
+C:\Users\Юлия\Desktop\git_repo\geekbrains_l9\lesson_9\bin\Debug\net6.0\lesson_9.deps.json
+C:\Users\Юлия\Desktop\git_repo\geekbrains_l9\lesson_9\bin\Debug\net6.0\lesson_9.runtimeconfig.json
+C:\Users\Юлия\Desktop\git_repo\geekbrains_l9\lesson_9\bin\Debug\net6.0\lesson_9.dll
+C:\Users\Юлия\Desktop\git_repo\geekbrains_l9\lesson_9\bin\Debug\net6.0\lesson_9.pdb
+C:\Users\Юлия\Desktop\git_repo\geekbrains_l9\lesson_9\obj\Debug\net6.0\lesson_9.csproj.AssemblyReference.cache
+C:\Users\Юлия\Desktop\git_repo\geekbrains_l9\lesson_9\obj\Debug\net6.0\lesson_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\Desktop\git_repo\geekbrains_l9\lesson_9\obj\Debug\net6.0\lesson_9.AssemblyInfoInputs.cache
+C:\Users\Юлия\Desktop\git_repo\geekbrains_l9\lesson_9\obj\Debug\net6.0\lesson_9.AssemblyInfo.cs
+C:\Users\Юлия\Desktop\git_repo\geekbrains_l9\lesson_9\obj\Debug\net6.0\lesson_9.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\git_repo\geekbrains_l9\lesson_9\obj\Debug\net6.0\lesson_9.dll
+C:\Users\Юлия\Desktop\git_repo\geekbrains_l9\lesson_9\obj\Debug\net6.0\refint\lesson_9.dll
+C:\Users\Юлия\Desktop\git_repo\geekbrains_l9\lesson_9\obj\Debug\net6.0\lesson_9.pdb
+C:\Users\Юлия\Desktop\git_repo\geekbrains_l9\lesson_9\obj\Debug\net6.0\lesson_9.genruntimeconfig.cache
+C:\Users\Юлия\Desktop\git_repo\geekbrains_l9\lesson_9\obj\Debug\net6.0\ref\lesson_9.dll
